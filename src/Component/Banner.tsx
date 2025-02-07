@@ -4,7 +4,7 @@ import redFaceImage from "../assets/images/redFaceEmoji.avif";
 import greenFaceImage from "../assets/images/greenFaceEmoji.avif";
 import yellowFaceImage from "../assets/images/yellowFaceEmoji.avif";
 import pc from "../assets/images/pc.avif";
-
+//Banner
 function Banner({scalingFactor,scrollbarWidth,computeFontSize}:any) {
 
   return (
